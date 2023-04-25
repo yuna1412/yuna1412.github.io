@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  Fusion360作品集
-date:   
+date:   2023-04-25 09:00:00 +0900
 categories:
 ---
 AutodeskFusion360学生デザインコンテストにて作品を応募中です。<br/>
 <br/>
 <br/>
 優秀賞：「ボーリング」<br/>
-<br/>
+<img src="bowling.png"><br/>
 <br/>
