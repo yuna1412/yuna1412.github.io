@@ -6,7 +6,6 @@ categories:
 ---
 AutodeskFusion360学生デザインコンテストにて作品を応募中です。<br/>
 <br/>
-<br/>
 優秀賞：「ボーリング」<br/>
-<img src="bowling.png"><br/>
+<img src="bowling.png" width="200" height="100"><br/>
 <br/>
